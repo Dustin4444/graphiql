@@ -72,7 +72,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "graphql-language-service": "^5.5.1",
+    "graphql-language-service": "^0.0.0",
     "picomatch-browser": "^2.2.6"
   },
   "devDependencies": {

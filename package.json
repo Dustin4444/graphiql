@@ -103,9 +103,9 @@
     "oxlint": "^1",
     "oxlint-plugin-eslint": "^1",
     "oxlint-tsgolint": "latest",
-    "patch-package": "^7.0.2",
+    "patch-package": "^8.0.1",
     "postinstall-postinstall": "^2.1.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^6.1.1",
     "turbo": "^2.9.14",
     "typedoc": "^0.28.19",
     "typescript": "^5.8.0",
@@ -122,9 +122,9 @@
     "vite": "6.4.3"
   },
   "devDependencies": {
-    "@vscode/vsce": "^2.22.1-2",
+    "@vscode/vsce": "^3.9.2",
     "jsdom": "^29.0.2",
-    "ovsx": "0.8.3",
+    "ovsx": "0.9.5",
     "svgo": "^4.0.1"
   }
 }
